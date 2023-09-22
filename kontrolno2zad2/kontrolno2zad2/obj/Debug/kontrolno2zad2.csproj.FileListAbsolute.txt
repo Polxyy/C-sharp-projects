@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\bin\Debug\kontrolno2zad2.exe.config
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\bin\Debug\kontrolno2zad2.exe
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\bin\Debug\kontrolno2zad2.pdb
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.Form1.resources
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.exe
+D:\VisualStudioProjects\C sharp projects\kontrolno2zad2\kontrolno2zad2\obj\Debug\kontrolno2zad2.pdb

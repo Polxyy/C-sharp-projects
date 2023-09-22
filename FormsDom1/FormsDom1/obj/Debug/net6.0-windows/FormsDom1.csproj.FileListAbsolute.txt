@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\bin\Debug\net6.0-windows\FormsDom1.exe
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\bin\Debug\net6.0-windows\FormsDom1.deps.json
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\bin\Debug\net6.0-windows\FormsDom1.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\bin\Debug\net6.0-windows\FormsDom1.dll
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\bin\Debug\net6.0-windows\FormsDom1.pdb
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.Form1.resources
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.dll
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\refint\FormsDom1.dll
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.pdb
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\FormsDom1.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\FormsDom1\FormsDom1\obj\Debug\net6.0-windows\ref\FormsDom1.dll

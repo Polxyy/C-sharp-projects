@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\bin\Debug\net6.0\smallest digit of a number.exe
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\bin\Debug\net6.0\smallest digit of a number.deps.json
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\bin\Debug\net6.0\smallest digit of a number.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\bin\Debug\net6.0\smallest digit of a number.dll
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\bin\Debug\net6.0\smallest digit of a number.pdb
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.dll
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\refint\smallest digit of a number.dll
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.pdb
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\smallest digit of a number.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\smallest digit of a number\smallest digit of a number\obj\Debug\net6.0\ref\smallest digit of a number.dll

@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\C sharp projects\dom5.zad2\dom5.zad2\obj\Debug\net6.0\dom5.zad2.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\dom5.zad2\dom5.zad2\obj\Debug\net6.0\dom5.zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\dom5.zad2\dom5.zad2\obj\Debug\net6.0\dom5.zad2.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\dom5.zad2\dom5.zad2\obj\Debug\net6.0\dom5.zad2.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\dom5.zad2\dom5.zad2\obj\Debug\net6.0\dom5.zad2.csproj.CoreCompileInputs.cache

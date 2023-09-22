@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\bin\Debug\kont.zad1.exe.config
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\bin\Debug\kont.zad1.exe
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\bin\Debug\kont.zad1.pdb
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.Form1.resources
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.exe
+D:\VisualStudioProjects\C sharp projects\kont.zad1\kont.zad1\obj\Debug\kont.zad1.pdb

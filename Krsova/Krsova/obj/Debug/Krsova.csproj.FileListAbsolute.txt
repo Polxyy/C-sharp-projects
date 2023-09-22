@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\bin\Debug\Krsova.exe.config
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\bin\Debug\Krsova.exe
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\bin\Debug\Krsova.pdb
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.exe
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.pdb
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.PatientForm.resources
+D:\VisualStudioProjects\C sharp projects\Krsova\Krsova\obj\Debug\Krsova.StatisticsForm.resources

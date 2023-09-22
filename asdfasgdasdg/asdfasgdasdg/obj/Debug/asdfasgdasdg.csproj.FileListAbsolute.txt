@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\bin\Debug\asdfasgdasdg.exe.config
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\bin\Debug\asdfasgdasdg.exe
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\bin\Debug\asdfasgdasdg.pdb
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.AddPatients.resources
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.Form1.resources
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.Spisuk.resources
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.exe
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.pdb
+D:\VisualStudioProjects\C sharp projects\asdfasgdasdg\asdfasgdasdg\obj\Debug\asdfasgdasdg.StatisticsForm.resources

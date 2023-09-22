@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\bin\Debug\net6.0\kontrolno1.zad.1.exe
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\bin\Debug\net6.0\kontrolno1.zad.1.deps.json
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\bin\Debug\net6.0\kontrolno1.zad.1.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\bin\Debug\net6.0\kontrolno1.zad.1.dll
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\bin\Debug\net6.0\kontrolno1.zad.1.pdb
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.dll
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\refint\kontrolno1.zad.1.dll
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.pdb
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\kontrolno1.zad.1.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\kontrolno1.zad.1\kontrolno1.zad.1\obj\Debug\net6.0\ref\kontrolno1.zad.1.dll

@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\bin\Debug\net6.0\OOP Upr.exe
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\bin\Debug\net6.0\OOP Upr.deps.json
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\bin\Debug\net6.0\OOP Upr.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\bin\Debug\net6.0\OOP Upr.dll
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\bin\Debug\net6.0\OOP Upr.pdb
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.dll
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\refint\OOP Upr.dll
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.pdb
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\OOP Upr.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\OOP Upr\OOP Upr\obj\Debug\net6.0\ref\OOP Upr.dll

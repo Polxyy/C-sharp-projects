@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\bin\Debug\net6.0\zad1.exe
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\bin\Debug\net6.0\zad1.deps.json
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\bin\Debug\net6.0\zad1.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\bin\Debug\net6.0\zad1.dll
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\bin\Debug\net6.0\zad1.pdb
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.dll
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\refint\zad1.dll
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.pdb
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\zad1.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\zad1\zad1\obj\Debug\net6.0\ref\zad1.dll

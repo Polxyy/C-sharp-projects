@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\bin\Debug\122878izpit.exe.config
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\bin\Debug\122878izpit.exe
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\bin\Debug\122878izpit.pdb
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\_122878izpit.AddToy.resources
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\_122878izpit.Form1.resources
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\_122878izpit.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.exe
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\122878izpit.pdb
+D:\VisualStudioProjects\C sharp projects\122878izpit\122878izpit\obj\Debug\_122878izpit.Statistics.resources

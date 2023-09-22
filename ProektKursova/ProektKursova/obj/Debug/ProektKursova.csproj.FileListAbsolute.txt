@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\bin\Debug\ProektKursova.exe.config
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\bin\Debug\ProektKursova.exe
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\bin\Debug\ProektKursova.pdb
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.Main.resources
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.exe
+D:\VisualStudioProjects\C sharp projects\ProektKursova\ProektKursova\obj\Debug\ProektKursova.pdb

@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+D:\VisualStudioProjects\C sharp projects\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll

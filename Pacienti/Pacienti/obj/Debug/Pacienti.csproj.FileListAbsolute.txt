@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\bin\Debug\Pacienti.exe.config
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\bin\Debug\Pacienti.exe
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\bin\Debug\Pacienti.pdb
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.Main.resources
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.Properties.Resources.resources
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.csproj.GenerateResource.cache
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.exe
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.pdb
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.AddPatients.resources
+D:\VisualStudioProjects\C sharp projects\Pacienti\Pacienti\obj\Debug\Pacienti.Spisuk.resources
